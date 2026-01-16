@@ -1,0 +1,1 @@
+"I believe some days aren't for 'learning,' they are for 'belonging.' This repository documents my life within the K8s ecosystem—watching containers evolve into pods and services quietly doing their work. Debugging isn't work to me; it’s a natural conversation with the cluster. I keep showing up because this is what excites me, one deployment at a time. 💙"
